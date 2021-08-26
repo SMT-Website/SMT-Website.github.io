@@ -79,20 +79,26 @@
         margin: 0 auto;
     }
 
-    .contact-info col{
+    .contact-info img{
+/*         padding: 20px; */
+        width: 65px;
+    }
+
+    .contact-info .col{
         width: 100%;
-        padding-top: 0px;
+        padding-top: 0px !important;
+        display: block;
+        text-align: center;
+    }
+
+    #map {
+        height: 412px;
     }
 }
 
 @media only screen and (max-width: 480px) {
     .col {
         float: none;
-    }
-
-    .contact-info col{
-        display: block;
-        text-align: center;
     }
 
     .contact-input {
