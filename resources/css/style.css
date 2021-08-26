@@ -599,10 +599,9 @@ header {
     height: 500px;
 }
 
-.contact-info {
-    /*    padding-top: 30px;*/
+.contact-info .row {
+    padding: 10px;
 }
-
 
 .contact-input {
     border-left: 2px solid #E78D1E;
