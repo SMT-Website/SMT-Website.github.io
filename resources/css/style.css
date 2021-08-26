@@ -119,8 +119,8 @@ input[type=submit] {
 
 .btn-ghost:link,
 .btn-ghost:visited {
-    border: 1px solid #FBF1DA;
-    color: #FBF1DA;
+    border: 1px solid #FFF;
+    color: #FFF;
 }
 
 .btn:hover,
