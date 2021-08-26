@@ -115,6 +115,7 @@ input[type=submit] {
     border: 1px solid #E78D1E;
     color: #fff;
     margin-right: 15px;
+    margin-bottom: 10px;
 }
 
 .btn-ghost:link,
