@@ -251,13 +251,21 @@ header {
     transform: translate(-50%, -50%);
 /*    padding-left: 0.5%;*/
 }
-
+/* 
 .logo {
     height: 170px;
     width: auto;
     float: left;
     margin-top: 0px;
     margin-left: -4%;
+} */
+
+.logo {
+    height: 38px;
+    width: auto;
+    float: left;
+    margin-top: 49px;
+    margin-left: -1%;
 }
 
 .main-nav {
@@ -555,7 +563,7 @@ header {
 }
 
 .story_year {
-    font-size: 180% !important;
+    font-size: 180%;
     font-weight: 100;
     color: #A63B35;
     text-align: center;

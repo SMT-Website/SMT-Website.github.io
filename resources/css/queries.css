@@ -27,7 +27,8 @@
         top: 55px;
     }
     .logo {
-        height: 150px;
+        /* height: 150px; */
+        margin-top: 57px;
     }
 }
 
@@ -61,9 +62,7 @@
     .main-nav {
         display: none;
     }
-    .mobile-nav {
-        display: block;
-    }
+
     .main-nav {
         float: left;
         margin-top: 30px;
@@ -103,5 +102,21 @@
 
     .contact-input {
         display: none;
+    }
+
+    .dot{
+        display: none;
+    }
+
+    .timeline{
+        display: none;
+    }
+
+    .story-container img {
+        width: 12%;
+    }
+
+    .story_year {
+        font-size: 145% !important;
     }
 }
