@@ -514,7 +514,7 @@ ul.custom-bullet li::before {
     content: "\f192";
     font-size: 18px;
     font-family: FontAwesome;
-    margin-left: 0px;
+    margin-left: 3px;
     margin-right: 16px;
     /* padding-top: 15px; */
 }
@@ -569,6 +569,8 @@ ul.custom-bullet li::before {
 .story-text {
     font-size: 95% !important;
     text-align: center;
+    width: 75%;
+    margin: 0 auto;
 }
 
 .story-container img {

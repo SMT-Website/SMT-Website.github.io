@@ -139,4 +139,15 @@
     .story-container img{
         margin-top: 4%;
     }
+
+    .client-box .span-1-of-4{
+        width: 50%;
+        text-align: center;
+        margin: 0 auto;
+        margin-bottom: 21px;
+    }
+
+    .box img{
+        margin-bottom: 0px;
+    }
 }
