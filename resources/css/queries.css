@@ -119,4 +119,17 @@
     .story_year {
         font-size: 145% !important;
     }
+
+    .custom-bullet{
+        display: block;
+    }
+    
+    .align-circles{
+        display: none;
+    }
+
+    .section-capacity h4{
+        text-align: left;
+    }
+
 }

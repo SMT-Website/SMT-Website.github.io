@@ -505,6 +505,19 @@ header {
     background-color: #f4f4f4;
 }
 
+.custom-bullet{
+    display: none;
+}
+
+ul.custom-bullet li::before {
+    content: "\f192";
+    font-size: 18px;
+    font-family: FontAwesome;
+    margin-left: 0px;
+    margin-right: 16px;
+    /* padding-top: 15px; */
+}
+
 /* ----------------------------------------------- */
 /* IMAGES */
 /* ----------------------------------------------- */
