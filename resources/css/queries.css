@@ -129,9 +129,14 @@
     }
 
     .section-capacity h4{
-        text-align: left;
+        text-align: left !important;
+        padding-bottom: 10px;
     }
     .large-image{
         display: none;
+    }
+
+    .story-container img{
+        margin-top: 4%;
     }
 }

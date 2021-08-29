@@ -507,6 +507,7 @@ header {
 
 .custom-bullet{
     display: none;
+    list-style: none;
 }
 
 ul.custom-bullet li::before {
@@ -516,6 +517,11 @@ ul.custom-bullet li::before {
     margin-left: 0px;
     margin-right: 16px;
     /* padding-top: 15px; */
+}
+
+.custom-bullet span{
+    color: #777 !important;
+    font-weight: 500;
 }
 
 /* ----------------------------------------------- */
