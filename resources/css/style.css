@@ -643,7 +643,7 @@ ul.custom-bullet li::before {
     color: red;
 }
 
-#map{
+.contact-map{
     height: 412px;
 }
 
