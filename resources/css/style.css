@@ -693,15 +693,15 @@ footer ul{
     color: #ccc;
     list-style: none;
     padding: 15px;
-    font-size: 90%;
+    
 }
 
 footer a:link, footer a:visited{
     color: #3E94B2;
     text-decoration: none;
-    padding-bottom: 1px;
     font-weight: 500;
     padding: 1em;
+    padding-bottom: 4px;
 }
 
 footer a:hover{
