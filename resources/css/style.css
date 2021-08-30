@@ -690,20 +690,18 @@ footer ul{
     justify-content: space-evenly;
     width: 50%;
     margin: 0 auto;
-    /* list-style: none; */
+    color: #ccc;
+    list-style: none;
     padding: 15px;
+    font-size: 90%;
 }
 
 footer a:link, footer a:visited{
     color: #3E94B2;
     text-decoration: none;
     padding-bottom: 1px;
-    /* border-bottom: 1px solid #e67e22; */
-    /* -webkit-transition: border-bottom 0.2s, color 0.2s; */
-    /* transition: border-bottom 0.2s, color 0.2s; */
     font-weight: 500;
     padding: 1em;
-    padding-bottom: 4px;
 }
 
 footer a:hover{
