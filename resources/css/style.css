@@ -643,6 +643,10 @@ ul.custom-bullet li::before {
     color: red;
 }
 
+#map{
+    height: 412px;
+}
+
 input[type=text],
 input[type=email],
 /*select,*/
