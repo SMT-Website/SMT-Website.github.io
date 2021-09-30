@@ -36,16 +36,18 @@ button.onclick = function() {
 // Initialize and add the map
 function initMap() {
   // The location of Uluru
-//   13.198205025572062, 80.17873437898226
-  const uluru = { lat: 13.198, lng: 80.178 };
+//   13.198205025572062, 80.17873437898226 MARSHA
+// 13.198518851206416, 80.17895428097297 SMT
+
+  const smt = { lat: 13.198518851206416, lng: 80.17895428097297 };
   // The map, centered at Uluru
   const map = new google.maps.Map(document.getElementById("map"), {
-    zoom: 10,
-    center: uluru,
+    zoom: 16,
+    center: smt,
   });
   // The marker, positioned at Uluru
   const marker = new google.maps.Marker({
-    position: uluru,
+    position: smt,
     map: map,
   });
 }
