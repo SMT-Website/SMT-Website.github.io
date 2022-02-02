@@ -21,7 +21,7 @@ button.onclick = function() {
     }
 };
 
-(document).ready(function() {
+$(document).ready(function() {
     
     $('.js-features').waypoint(function(dir) {
         if (dir == "down") {
