@@ -269,11 +269,11 @@ header {
 } */
 
 .logo {
-    height: 38px;
+    height: 162px;
     width: auto;
     float: left;
     margin-top: 49px;
-    margin-left: -1%;
+    margin-left: -3%;
 }
 
 .main-nav {
